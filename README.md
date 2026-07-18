@@ -1,16 +1,28 @@
-# Tableau Learning Journey
+# Tableau Practice
 
-## Day 1 - Introduction to Tableau
+This repository documents my Tableau learning journey as I build my data visualization skills.
 
-### Topics Covered
+## Lecture 1 – Introduction to Tableau
+
+### Concepts Covered
 - Bubble Chart
 - Bar Chart
-- Dashboard Basics
+- Dashboard Creation
+- Sample Superstore Dataset
 
-### Dataset
-- Tableau Sample Superstore Dataset
+### Dashboard Preview
 
-### Outcome
-Created my first Tableau dashboard by combining a Bubble Chart and a Bar Chart to understand basic visualization concepts.
 
-> This repository documents my Tableau learning journey before building professional dashboards.
+
+### Skills Practiced
+- Creating visualizations
+- Working with dimensions and measures
+- Building a simple dashboard
+- Formatting charts
+
+## Tools Used
+- Tableau Public
+- Sample Superstore Dataset
+
+---
+This repository will be updated regularly as I learn advanced Tableau concepts and build professional dashboards.
