@@ -12,7 +12,7 @@ This repository documents my Tableau learning journey as I build my data visuali
 
 ### Dashboard Preview
 
-
+![Tableau Dashboard](https://raw.githubusercontent.com/Sarthaak-19/tableau_practice/main/SAVE_20260718_232719.jpg)
 
 ### Skills Practiced
 - Creating visualizations
