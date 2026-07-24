@@ -14,6 +14,8 @@ This repository documents my Tableau learning journey as I build my data visuali
 
 ![Tableau Dashboard](https://raw.githubusercontent.com/Sarthaak-19/tableau_practice/main/SAVE_20260718_232719.jpg)
 
+[![Tableau Dashboard](https://raw.githubusercontent.com/Sarthaak-19/tableau_practice/main/IMG_20260725_002204.jpg)](https://github.com/Sarthaak-19/tableau_practice/blob/main/IMG_20260725_002204.jpg)
+
 ### Skills Practiced
 - Creating visualizations
 - Working with dimensions and measures
